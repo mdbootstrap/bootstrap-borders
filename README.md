@@ -64,12 +64,12 @@ These components were built with a **free Material Design UI Kit for the latest 
 
 <h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/utilities/borders/">Borders</a></h5>
 
-<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/utilities/overflow/"></a>Overflow</h5>
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/utilities/overflow/">Overflow</a></h5>
 
-<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/utilities/position/"></a>Position</h5>
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/utilities/position/">Position</a></h5>
 
-<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/utilities/spacing/"></a>Spacing</h5>
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/utilities/spacing/">Spacing</a></h5>
 
-<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/utilities/text/"></a>Text</h5>
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/utilities/text/">Text</a></h5>
 
 
