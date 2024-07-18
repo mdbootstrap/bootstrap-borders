@@ -62,7 +62,7 @@ These components were built with a **free Material Design UI Kit for the latest 
 
 <h3>Related Resources</h3>
 
-<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/utilities/borders/">Borders</a></h5>
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/utilities/sizing/">Sizing</a></h5>
 
 <h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/utilities/overflow/">Overflow</a></h5>
 
